@@ -9,6 +9,7 @@ class Vote < ActiveRecord::Base
     "M" => "Me-too",
     "T" => "Troll",
     "S" => "Spam",
+    "H" => "Haskell",
     "" => "Cancel",
   }
 
